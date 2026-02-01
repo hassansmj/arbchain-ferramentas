@@ -14,8 +14,8 @@
 // @match        https://bingx.com/*
 // @match        https://*.htx.com/*
 // @match        https://htx.com/*
-// @updateURL    https://github.com/hassansmj/arbchain-ferramentas/raw/refs/heads/main/dist/ferramentas.user.js
-// @downloadURL  https://github.com/hassansmj/arbchain-ferramentas/raw/refs/heads/main/dist/ferramentas.user.js
+// @updateURL    https://github.com/hassansmj/arbchain-ferramentas/raw/refs/heads/main/ferramentas.user.js
+// @downloadURL  https://github.com/hassansmj/arbchain-ferramentas/raw/refs/heads/main/ferramentas.user.js
 // @icon         https://www.arbchain.com.br/images/logo-arbchain.jpg
 // @grant        GM_getValue
 // @grant        GM_setValue
