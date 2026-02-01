@@ -1,8 +1,7 @@
-
  // ==UserScript==
  // @name         Auto Trading - ArbChain
  // @namespace    tm.arb.hud
- // @version      1.8.1
+ // @version      1.8.0
  // @author       HassaN
  // @description  Calculadora + automatização - Gate, MEXC, Bitget, BingX, HTX (Spot/Futuros).
  // @match        https://*.gate.com/*
@@ -11,8 +10,8 @@
  // @match        https://bingx.com/*
  // @match        https://*.htx.com/*
  // @match        https://htx.com/*
- // @updateURL    https://raw.githubusercontent.com/hassansmj/arbchain-ferramentas/main/arbchainbot.user.js
- // @downloadURL  https://raw.githubusercontent.com/hassansmj/arbchain-ferramentas/main/arbchainbot.user.js
+ // @updateURL    https://github.com/hassansmj/arbchain-ferramentas/raw/refs/heads/main/dist/arbchainbot.user.js
+ // @downloadURL  https://github.com/hassansmj/arbchain-ferramentas/raw/refs/heads/main/dist/arbchainbot.user.js
  // @icon         https://www.arbchain.com.br/images/logo-arbchain.jpg
  // @grant        GM_addStyle
  // @grant        GM_setValue
