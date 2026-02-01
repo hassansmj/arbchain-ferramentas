@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ArbChain Ferramentas
 // @namespace    https://arbchain.com.br
-// @version      2.1.0
+// @version      2.1.1
 // @description  Ferramentas para ajudar na operação
 // @author       ArbChain - Hassan
 // @match        https://*.gate.com/*
