@@ -1,7 +1,7 @@
  // ==UserScript==
  // @name         Auto Trading - ArbChain
  // @namespace    tm.arb.hud
- // @version      1.8.1
+ // @version      1.8.2
  // @author       HassaN
  // @description  Calculadora + automatização - Gate, MEXC, Bitget, BingX, HTX (Spot/Futuros).
  // @match        https://*.gate.com/*
